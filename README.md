@@ -60,7 +60,8 @@ plt.show()
 
 ## Output:
 
-<img width="562" height="455" alt="ml exp 1" src="https://github.com/user-attachments/assets/e708d3f7-ed00-4698-a091-68f1eacf2435" />
+<img width="556" height="516" alt="Screenshot 2025-10-04 114142" src="https://github.com/user-attachments/assets/0680095e-4e38-4999-837e-354cde956869" />
+
 
 
 ## Result:
